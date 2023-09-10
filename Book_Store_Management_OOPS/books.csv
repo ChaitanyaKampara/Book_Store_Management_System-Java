@@ -1,0 +1,51 @@
+Book_Id,Title,Author,Genre,Price,No_of_Copies
+B001,Murder on Orient Express,Agatha Cristie,Mystery,199,36
+B002,Da Vinci Code,Dan Brown,Mystery,299,27
+B003,The Big Sleep,Raymond Chandler,Mystery,189,31
+B004,The Moonstone,Wilkie Collins,Mystery,229,24
+B005,The Duke and I,Julia Quinn,Mystery,499,26
+B006,The Hound of Baskervilles,A.C.Doyle,Mystery,129,20
+B007,The Girl On The Train,Paula Hawkins,Mystery,189,23
+B008,The Alienist,Caleb Carr,Mystery,179,29
+B009,The Woman In White,Wilkie Collins,Mystery,239,29
+B010,Nineteen Eighty Four,George Orwell,Literature,119,20
+B011,The Great Gabby,Scott F,Literature,249,31
+B012,To Kill a Mocking Bird,Harper Lee,Literature,299,40
+B013,Jane Eyre,Charolette,Literature,199,36
+B014,The Kite Runner,Khaled Hosseini,Literature,169,23
+B015,The Catcher in the Rye,J.D Salinger,Literature,189,27
+B016,Beloved,Tony Morrison,Literature,229,22
+B017,Anna Kanerina,Leo Tolstoy,Literature,259,25
+B018,Lolita,Vladmir Nabokov,Literature,309,33
+B019,Ulysses,James Joyce,Literature,179,36
+B020,Invinsible Man,RalpjEllison,Literature,199,27
+B021,Pride and Predujice,Jane Austen,Romance,199,22
+B022,Outlander,Diana Gabaldon,Romance,299,27
+B023,Call Me by Your Name,Andre Aciman,Romance,189,22
+B024,Me Before You,Emily Henry,Romance,229,37
+B025,People we Meet On Vacation,Jojo Moyes,Romance,499,37
+B026,It Ends With Us,Colleen Hoover,Romance,129,23
+B027,Beach read,Emily Henry,Romance,189,38
+B028,Boyfriend Material,Alexis Hall,Romance,179,32
+B029,Indigo,Jenkins,Romance,239,25
+B030,The Proposal,Jasmine,Romance,119,27
+B031,Ctch 22,Joseph Heller,Humour,249,25
+B032,BossyPants,Tina Fey,Humour,299,22
+B033,Good Omens,Nell Gamein,Humour,199,22
+B034,Born a Crime,Trever Noah,Humour,169,36
+B035,Yes Please,Amy Peohler,Humour,189,36
+B036,Lucky Jim,Amis,Humour,229,37
+B037,Ct's Cradle,Kurt Vonneygut,Humour,259,38
+B038,A dirty Job,Christopher,Humour,309,29
+B039,A Diary Of Nobody,George ,Humour,179,24
+B040,Naked,David,Humour,199,22
+B041,Nineteen EightyFour,George Orwell,Fiction,199,22
+B042,Beloved,Toni Morrison,Fiction,299,32
+B043,Jane Eyyre,Charlotte,Fiction,189,22
+B044,The Grate Gatsby,F.Scott,Fiction,229,39
+B045,Dune,Frank Henbert,Fiction,499,36
+B046,Ender's Game,Orson Scott,Fiction,129,38
+B047,Atonement,Ian,Fiction,189,39
+B048,The Secret History,Donna Tart,Fiction,179,32
+B049,Life of Pi,Yann Martel,Fiction,239,28
+B050,The Book Theif,Markus Zukas,Fiction,119,29

@@ -2,7 +2,6 @@ package HandlingFiles;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
-
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.nio.file.Files;

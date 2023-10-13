@@ -11,7 +11,7 @@ public class UpdateDatabase {
 	public static void updateBookforInt(String c,int val1,String Att,String val2, String tableName) throws SQLException
 	{
 		Connection con=DataBaseConnect.connect();
-		String query = "update " + tableName + " set " + Help.ShortForm(c)  + " = ?" +  " where " + Help.ShortForm(Att) +  " = " + "?";
+		String query = "update " + tableName + " set " +  Help.ShortForm(c)  + " = ?" +  " where " + Help.ShortForm(Att) +  " = " + "?";
         try(PreparedStatement ps = con.prepareStatement(query)){
             ps.setInt(1, Integer.valueOf(val1));
             ps.setString(2, val2);
